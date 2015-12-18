@@ -15,7 +15,7 @@ Usage
 
 google-play-services.jar and android-support-v4.jar for ANE libs
 
-Use this with my versions of AirPushNotification or AirGooglePlayGameServices.ane
+Use this with my versions of AirPushNotification or AirGooglePlayGameServices.ane, for in app purchase you can use [StarIslandGames's](https://github.com/StarIslandGames/ANE-In-App-Purchase) version
 
 If you use [lilili87222’s AdMob](https://github.com/lilili87222/admob-for-flash) use the without_gps version
 
