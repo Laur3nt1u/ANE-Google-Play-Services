@@ -1,7 +1,7 @@
-Air Native Extension for Google Play Games Services (Android)
+Air Native Extension with Google Play Services Library (Android)
 ======================================
 
-This is an [Air native extension](http://www.adobe.com/devnet/air/native-extensions-for-air.html) for [Google Play Games Services](http://developer.android.com/google/play-services/games.html/) SDK on Android. It has been developed by [FreshPlanet](http://freshplanet.com) and is used in the game [MoviePop](http://moviepop.net).
+This is an [Air native extension](http://www.adobe.com/devnet/air/native-extensions-for-air.html) with [Google Play Services](https://developers.google.com/android/guides/overview/) Library for Android.
 
 
 Installation
